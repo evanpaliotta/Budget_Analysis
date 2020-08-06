@@ -1,1 +1,3 @@
-# Budget_Analysis
+# Budget Analysis
+
+Planned a budget 
